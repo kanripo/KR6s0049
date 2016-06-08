@@ -6,14 +6,15 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2857
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS CBETA
 #+PROPERTY: LASTPB <pb:KR6s0049_T_000-1306b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0049_T_001-1306b> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No. 2857¶
-索法號義辯諷誦文¶
+No.2857¶
+
+ 索法號義[(工*刀)/言]諷誦文¶
 ¶
 
 伏以暫乖寢膳臥疾經時。朝風晝觸於帡幃。¶
